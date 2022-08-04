@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "iQiiUvfOneEOccpWYasZvznhBv2H2i0PAwkvWOIYEUvMyQIi8chaw6OTPGxOY8qmXkXCwwyF+UArukK9kiFwgQ==",
+  "dgSpecHash": "/LzZuhJWs7GTZkFLpbpiXTwudsqhNtwXCszNByBa9Z1+EV/TupjW93+0ZINf+gbMGSKHivuFwzcdUjzC+R8QGA==",
   "success": true,
   "projectFilePath": "C:\\Users\\caiqu\\back-end-siteLego\\back-end-siteLego\\back-end-login\\WebLogin\\WebLogin.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\caiqu\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
